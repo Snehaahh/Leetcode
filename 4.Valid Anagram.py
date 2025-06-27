@@ -9,4 +9,5 @@ class Solution:
         for val in count:
             if val!=0:
                 return False
+                
         return True
